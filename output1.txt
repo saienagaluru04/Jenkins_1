@@ -1,0 +1,15 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 96E0-2891
+
+ Directory of C:\Users\91829\Desktop\jenkins
+
+23-07-2025  16:20    <DIR>          .
+22-07-2025  22:06    <DIR>          ..
+23-07-2025  16:20    <DIR>          jenkins-dir
+22-07-2025  15:23               536 jenkins.txt
+23-07-2025  15:47               482 output.txt
+23-07-2025  16:20                 0 output1.txt
+23-07-2025  15:43    <DIR>          sample
+23-07-2025  15:44    <DIR>          sample1
+               3 File(s)          1,018 bytes
+               5 Dir(s)  290,911,727,616 bytes free
