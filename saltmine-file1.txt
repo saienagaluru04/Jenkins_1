@@ -1,0 +1,23 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 96E0-2891
+
+ Directory of C:\Users\91829\Desktop\jenkins
+
+24-07-2025  14:40    <DIR>          .
+22-07-2025  22:06    <DIR>          ..
+23-07-2025  16:20    <DIR>          jenkins-dir
+22-07-2025  15:23               536 jenkins.txt
+23-07-2025  16:50    <DIR>          jenkins1
+24-07-2025  12:51    <DIR>          jspiders
+23-07-2025  15:47               482 output.txt
+23-07-2025  16:20               580 output1.txt
+23-07-2025  16:50               675 output2.txt
+24-07-2025  12:51               882 python_with_django.txt
+24-07-2025  12:38    <DIR>          saltmine
+24-07-2025  12:38               776 saltmine-file.txt
+24-07-2025  14:40                 0 saltmine-file1.txt
+24-07-2025  14:40    <DIR>          saltmine1
+23-07-2025  15:43    <DIR>          sample
+23-07-2025  15:44    <DIR>          sample1
+               7 File(s)          3,931 bytes
+               9 Dir(s)  289,669,914,624 bytes free
